@@ -8,7 +8,7 @@ Welcome to the Library Management System! This Python-based application simplifi
   
 - **Flexible Book Management**: 📖 Easily add, remove, and search for books within the library inventory.
 
-## 📝 How to Use:
+## 📝 How to Use: (can't run yet, still just an outline)
 
 1. **Clone the Repository**: 🔄 Clone the repository to your local machine.
    
