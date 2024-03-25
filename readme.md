@@ -11,18 +11,24 @@ Welcome to the Library Management System! This Python-based application simplifi
 ## 📝 How to Use:
 
 1. **Clone the Repository**: 🔄 Clone the repository to your local machine.
+   
     ```sh
     git clone https://github.com/liicodes/library-management-system.git
     ```
-2. **Install Dependencies**: ⚙️ Install the required dependencies listed in the `requirements.txt` file.
+    
+3. **Install Dependencies**: ⚙️ Install the required dependencies listed in the `requirements.txt` file.
+   
     ```sh
     pip install -r requirements.txt
     ```
-3. **Run the Application**: ▶️ Run the `library_management_system.py` file to start the application.
+    
+4. **Run the Application**: ▶️ Run the `library_management_system.py` file to start the application.
+   
     ```sh
     python3 library_management_system.py
     ```
-4. **Follow Instructions**: ℹ️ Follow the on-screen prompts or refer to the README for usage guidelines.
+    
+6. **Follow Instructions**: ℹ️ Follow the on-screen prompts or refer to the README for usage guidelines.
 
 ## 🌟 Future Enhancements:
 
