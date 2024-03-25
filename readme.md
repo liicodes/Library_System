@@ -49,4 +49,4 @@ Welcome to the Library Management System! This Python-based application simplifi
 
 ## 📄 License:
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
