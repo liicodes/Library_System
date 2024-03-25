@@ -45,7 +45,7 @@ Welcome to the Library Management System! This Python-based application simplifi
 ## 🤝 Contributors:
 
 - [Leo Ntluka] - Lead Developer
-- [Contributor Name] - UI Design (probably)
+- UI Design (if there ever is one, would probably still be made by me)
 
 ## 📄 License:
 
